@@ -1,1 +1,2 @@
-# Starting
+# Aim
+- Maintain jeykll themes
